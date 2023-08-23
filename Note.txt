@@ -1,0 +1,12 @@
+tahap pembuatan script web automation test :
+
+- npm init -y 			            (untuk install semua package)
+- npm i --save-dev @wdio/cli  	(untuk install wdio)
+- npx wdio config -y
+- npm i --save-dev typescript
+- npm i --save-dev ts-node
+- npm i --save-dev chai
+- npm i --save-dev @type
+
+untuk menjalankan program dengan perintah :
+- npm run wdio                 
